@@ -29,6 +29,7 @@
   position: fixed;
   right: 2%;
   bottom: 20%;
+  z-index: 1;
 }
 .float-menu .sns-ico {
   display: flex;
@@ -121,7 +122,7 @@
 
 .meis-circle {
   display: inline-block;
-  width: 26%;
+  width: 22%;
   max-width: 34.2rem;
   animation: spin 12s linear infinite;
 }
@@ -129,13 +130,13 @@
   position: fixed;
   top: 8%;
   left: -10%;
-  z-index: 1;
+  z-index: -1;
 }
 .meis-circle.circle02 {
   position: fixed;
   top: 35%;
   right: -10%;
-  z-index: 1;
+  z-index: -1;
 }
 
 @keyframes spin {
