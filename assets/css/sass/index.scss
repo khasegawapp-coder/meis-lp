@@ -27,7 +27,7 @@
   width: 100%;
   max-width: 21.4rem;
   position: fixed;
-  right: 10%;
+  right: 2%;
   bottom: 20%;
   .sns-ico {
     display: flex;
@@ -122,6 +122,8 @@
 
 .meis-circle {
   display: inline-block;
+  width: 26%;
+  max-width: 34.2rem;
   animation: spin 12s linear infinite;
   &.circle01 {
     position: fixed;
@@ -131,7 +133,7 @@
   }
   &.circle02 {
     position: fixed;
-    top: 40%;
+    top: 35%;
     right: -10%;
     z-index: 1;
   }
