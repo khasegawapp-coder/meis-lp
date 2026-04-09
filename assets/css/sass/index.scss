@@ -78,7 +78,7 @@
 
 //animation
 .js-fade {
-  transition: .8s ease-out;
+  transition: 1s ease-out;
 }
 .fadeup {
   opacity: 0;
@@ -112,13 +112,13 @@
 }
 
 .delay01 {
-  transition-delay: 0.4s!important;
+  transition-delay: 0.3s!important;
 }
 .delay02 {
-  transition-delay: 0.8s!important;
+  transition-delay: 0.6s!important;
 }
 .delay03 {
-  transition-delay: 1.2s!important;
+  transition-delay: 0.9s!important;
 }
 
 .meis-circle {
