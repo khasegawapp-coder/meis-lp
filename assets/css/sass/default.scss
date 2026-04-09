@@ -107,10 +107,10 @@ img {
             width: 100%;
         }
         &:nth-child(odd){
-            animation: loop 40s -20s linear infinite;
+            animation: loop 80s -40s linear infinite;
         }
         &:nth-child(even) {
-            animation: loop2 40s linear infinite;
+            animation: loop2 80s linear infinite;
         }
     }
 }

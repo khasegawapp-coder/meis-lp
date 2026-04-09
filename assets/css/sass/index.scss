@@ -78,7 +78,7 @@
 
 //animation
 .js-fade {
-  transition: .4s ease-out;
+  transition: .8s ease-out;
 }
 .fadeup {
   opacity: 0;
@@ -125,7 +125,7 @@
   display: inline-block;
   width: 22%;
   max-width: 34.2rem;
-  animation: spin 12s linear infinite;
+  animation: spin 30s linear infinite;
   &.circle01 {
     position: fixed;
     top: 8%;
