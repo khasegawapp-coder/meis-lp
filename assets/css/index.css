@@ -172,6 +172,7 @@
   position: relative;
   width: 92%;
   margin-left: auto;
+  margin-bottom: 3rem;
   z-index: 1;
 }
 .fv .fv-hero {
